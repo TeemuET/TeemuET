@@ -15,13 +15,6 @@ I was a part of a winning team at the Ultrahack hackathon in the fall of 2024. I
 - [Code](https://github.com/naapeli/Hanken-Hackathon-2024)
 
 # Projects and Programming
-
-Most of my experience with <code>GPyTorch</code> and <code>PyTorch</code> has been gathered at the Complex Systems and Materials group within the Department of Applied Physics at Aalto University. I researched the use of Machine Learning in Atom Probe Tomography data reconstruction. Unfortunately, I cannot publish the source code for the project yet as this work, where I serve as the lead author, is culminating in a research paper that is currently in progress.
-
-
-
-Below are the programming languages and documentation tools I'm used to working with in order of proficiency.
-
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white)
@@ -29,6 +22,16 @@ Below are the programming languages and documentation tools I'm used to working 
 
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+
+Above are the programming languages and documentation tools I'm used to working with in order of proficiency.
+
+Most of my experience with <code>GPyTorch</code> and <code>PyTorch</code> has been gathered at the Complex Systems and Materials group within the Department of Applied Physics at Aalto University. I researched the use of Machine Learning in Atom Probe Tomography data reconstruction. Unfortunately, I cannot publish the source code for the project yet as this work, where I serve as the lead author, is culminating in a research paper that is currently in progress.
+
+In addition to this experience, I have done Data Analysis and Machine Learning during various school projects. Most of these projects have not been uploaded to Git which is a work in progress. 
+
+
+
+
 
 
 
