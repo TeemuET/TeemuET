@@ -5,13 +5,18 @@
 
 If you would like to learn more about my academic background and work, please feel free to checkout the following documents
 
-:page_facing_up: [Resume]()
-:scroll: [BSc thesis](https://github.com/TeemuET/TeemuET/blob/5eef07b1a5848807ff0cd6fdc10889663312df5b/BScThesis.pdf)
+- :page_facing_up: [Resume]() : A more detailed overview of my work experience and educational background.
+- :scroll: [BSc thesis](https://github.com/TeemuET/TeemuET/blob/5eef07b1a5848807ff0cd6fdc10889663312df5b/BScThesis.pdf) : My Bachelor's thesis on Atom Probe Tomography Data Reconstruction using Gaussian Process Regression. In this thesis I primarily utilized <code>GPyTorch</code> along with a High-Performance Computing cluster ([Triton](https://scicomp.aalto.fi/triton/)) for large-scale data processing and parallel computing.
 
-# Hackathon
+# Sustainable Finance in the Quantum Era Hackathon
+I was a part of a winning team at the Ultrahack hackathon in the fall of 2024. In about 36 hours, I and my 4 teammates were able to formulate a sound business idea and excecute a technical implementation behind the concept. Our solution was a portfolio optimization and prediction platform intended to be integrated into a stock broker's website. We implemented both a classical optimization algorithm and one with Quantum Computing based on a recent [Nature article](https://www.nature.com/articles/s41598-023-45392-w). We also implemented a geometric brownian motion based prediction tool using the monte carlo method and incorporated impact data and ESG scoring from [The Upright Project](https://www.uprightproject.com/). My main area of responsibility was on the technical implementation and the implementing the research article in practice. The project and the pitch slides can be found from my teammates github below:
 
+- [Pitch Slides](https://github.com/naapeli/Hanken-Hackathon-2024/blob/main/hackathon%20pitch.pdf)
+- [Code](https://github.com/naapeli/Hanken-Hackathon-2024)
 
 # Projects and Programming
+
+Most of my experience with <code>GPyTorch</code> and <code>PyTorch</code> has been gathered at the Complex Systems and Materials group within the Department of Applied Physics at Aalto University. I researched the use of Machine Learning in Atom Probe Tomography data reconstruction. Unfortunately, I cannot publish the source code for the project yet as this work, where I serve as the lead author, is culminating in a research paper that is currently in progress.
 
 
 
@@ -27,12 +32,3 @@ Below are the programming languages and documentation tools I'm used to working 
 
 
 
-
-
-With a strong focus on **engineering leadership**, I thrive on building high-performing teams and delivering scalable, innovative solutions that drive real impact. My passion lies in **customer experience** and **cloud and infrastructure technologies**, where I turn complex challenges into opportunities for growth.
-
-🔭 Leading teams on transformative projects to reshape industries.
-
-🌱 Continuously learning and empowering others through mentorship and collaboration.
-
-🚀 Dedicated to pushing the boundaries of technology while fostering a culture of excellence.
