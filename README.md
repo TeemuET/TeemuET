@@ -6,7 +6,7 @@
 If you would like to learn more about my academic background and work, please feel free to checkout the following documents
 
 :page_facing_up: [Resume]()
-:scroll: [BSc thesis]()
+:scroll: [BSc thesis](https://github.com/TeemuET/TeemuET/blob/5eef07b1a5848807ff0cd6fdc10889663312df5b/BScThesis.pdf)
 
 # Hackathon
 
