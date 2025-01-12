@@ -5,7 +5,8 @@
 
 If you would like to learn more about my academic background and work, please feel free to checkout the following documents
 
-:page_facing_up: \href{Resume}{}
+:page_facing_up: [Resume]()
+:scroll: [BSc thesis]()
 
 # Hackathon
 
