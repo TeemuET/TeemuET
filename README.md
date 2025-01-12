@@ -5,7 +5,7 @@
 
 If you would like to learn more about my academic background and work, please feel free to checkout the following documents
 
-- :page_facing_up: [Resume]() : A more detailed overview of my work experience and educational background.
+- :page_facing_up: [Resume](https://github.com/TeemuET/TeemuET/blob/main/CV_classic_two_column_EN.pdf) : A more detailed overview of my work experience and educational background.
 - :scroll: [BSc thesis](https://github.com/TeemuET/TeemuET/blob/5eef07b1a5848807ff0cd6fdc10889663312df5b/BScThesis.pdf) : My Bachelor's thesis on Atom Probe Tomography Data Reconstruction using Gaussian Process Regression. In this thesis I primarily utilized <code>GPyTorch</code> along with a High-Performance Computing cluster ([Triton](https://scicomp.aalto.fi/triton/)) for large-scale data processing and parallel computing.
 
 # Sustainable Finance in the Quantum Era Hackathon
