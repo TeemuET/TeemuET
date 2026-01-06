@@ -9,6 +9,10 @@
 
 ---
 
-**Connect** &nbsp; [<img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="22" />](mailto:teemu.e.turpeinen@gmail.com) &nbsp; [<img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="22" />](https://linkedin.com/in/teemu-turpeinen-82b39925b)
+**Connect**
 
-**Tech Stack** &nbsp; <img src="https://skillicons.dev/icons?i=py,matlab,r,scala,c" alt="Languages" height="22"/>
+&nbsp; [<img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="22" />](mailto:teemu.e.turpeinen@gmail.com) &nbsp; [<img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="22" />](https://linkedin.com/in/teemu-turpeinen-82b39925b)
+
+**Tech Stack** 
+
+&nbsp; <img src="https://skillicons.dev/icons?i=py,matlab,r,scala,c" alt="Languages" height="22"/>
